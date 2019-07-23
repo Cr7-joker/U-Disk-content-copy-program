@@ -1,8 +1,9 @@
 # U-Disk-content-copy-program
 Check the inserted disk (U disk) to read the disk data and copy it to the corresponding location based on C++.
-# Í·ÎÄ¼ş UDisk.h
-# ´´½¨Â·¾¶ CreateDirc.cpp
-# ¼à²â´ÅÅÌ(UÅÌ) UDisk_Judgement.cpp
-# ¿½±´ CopyFile.cpp
-# RUN.cpp(ÔËĞĞÎÄ¼ş)
-# ³ÌĞòÊµÏÖ´úÂëËµÃ÷¼ûÎÒµÄ²©¿Í[C++ U Disk content copy program](https://www.shangzg.top/c++/technology/C++-U-Disk-content-copy-program.html)
+# å¤´æ–‡ä»¶ UDisk.h
+# åˆ›å»ºè·¯å¾„ CreateDirc.cpp
+# ç›‘æµ‹ç£ç›˜(Uç›˜) UDisk_Judgement.cpp
+# æ‹·è´ CopyFile.cpp
+# RUN.cpp(è¿è¡Œæ–‡ä»¶)
+# ç¨‹åºå®ç°ä»£ç è¯´æ˜è§æˆ‘çš„åšå®¢
+[C++ U Disk content copy program](https://www.shangzg.top/c++/technology/C++-U-Disk-content-copy-program.html)
